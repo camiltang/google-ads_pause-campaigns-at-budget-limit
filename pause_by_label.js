@@ -7,13 +7,14 @@
 
 // ----- Settings --------------------------------------- 
 
-var budget = 1000; // enter budget here (is spend on twitter)
+var budget = 1000; // enter budget here
+var label = 'Brand'; // Select Campaigns by Label
+
 var client = ''; // client name here 
 var safe_buffer = 0.025; // %
 var email = ''; // email to send alert here
 var io_startdate = "20190101"; // YYYYMMDD
 var io_enddate = "20191231"; // YYYYMMDD
-var label = 'Brand'; // Select Campaigns by Label
 
 // ----- Function --------------------------------------- 
 
