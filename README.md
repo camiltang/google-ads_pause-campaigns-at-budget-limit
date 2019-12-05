@@ -1,8 +1,6 @@
 # Google Ads Script, pause campaigns at budget limit.
-Google Ads - Pause campaigns by script at budget limit. 
 
-
-## Getting Started
+### Getting Started
 
 This script selects campaign spent of any campaigns with the selected label, compares it to budget. If the bugdet is close (buffer used to decide early cut off) or over budget, the script will pauses campaign and sends an email and campaign paused as attachement. 
 
